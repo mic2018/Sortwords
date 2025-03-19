@@ -11,7 +11,7 @@ Moreover, the program contain the following functionalities:
 2. Have option to sort with assenting or descending all words from F1 (sort a, sort d)
 EXAMPLE OF COMMANDS
 --------
-&gt; sortwords.exe &quot;C:\F1.txt&quot;
+sortwords.exe C:\F1.txt
 enter your options:
 sort -a
 The file F2 has been created.
