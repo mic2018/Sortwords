@@ -6,7 +6,7 @@ The sort isperformed according to the following constrains:
 2. F2 will be the sorted file
 3. Words in the file F2 should be sorted lexicographically in lower-case.
 4. Duplicates should be written to F2 only once
-Moreover, the program contain the following functionalities:
+* Moreover, the program contain the following functionalities:
 1. Print the most frequent word in F1 file and its count.
 2. Have option to sort with assenting or descending all words from F1 (sort a, sort d)
 EXAMPLE OF COMMANDS
