@@ -11,24 +11,25 @@ The sort isperformed according to the following constrains:
 2. Have option to sort with assenting or descending all words from F1 (sort a, sort d)
 EXAMPLE OF COMMANDS
 --------
-sortwords.exe C:\F1.txt
-enter your options:
-sort -a
-The file F2 has been created.
+sortwords.exe C:\F1.txt  
+enter your options:  
+sort -a  
+The file F2 has been created.  
 -------
-F1 content:
-There are places i will remember
-All my life though some have changed
-Some forever not for better
-Some have gone and some remain
-All these places have their moments
-With lovers and friends i still can recall
-Some are dead and some are living
-In my life I have loved them all&quot;
-THE RESULT:
-F2 content:
-“all, and, are, better, can, changed, dead, for, forever, friends, gone, have, i, in, life, living, loved,
-lovers, moments, my, not, places, recall, remain, remember, some, still, their, them, there, these,
-though, will, with”
-The most frequent word in the text is some, count: 6
-*********
+F1 content:  
+There are places i will remember  
+All my life though some have changed  
+Some forever not for better  
+Some have gone and some remain  
+All these places have their moments  
+With lovers and friends i still can recall  
+Some are dead and some are living  
+In my life I have loved them all; 
+  
+THE RESULT:  
+F2 content:    
+“all, and, are, better, can, changed, dead, for, forever, friends, gone, have, i, in, life, living, loved,  
+lovers, moments, my, not, places, recall, remain, remember, some, still, their, them, there, these,  
+though, will, with”  
+The most frequent word in the text is some, count: 6  
+*********  
